@@ -1,0 +1,5 @@
+https://download.pytorch.org/whl/cu117/torchvision-0.15.2%2Bcu117-cp39-cp39-linux_x86_64.whl
+https://download.pytorch.org/whl/cu117/torch-2.0.1%2Bcu117-cp39-cp39-linux_x86_64.whl
+tensorboard
+opencv-python
+opencv-contrib-python
